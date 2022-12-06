@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my README on GitHub.
 - 🌱 I’m currently relearning how to use GitHub because I learned something, but I forgot :sweat_smile:.
-- 💬 Ask me about music. I love music, and lately I've been obsessed with Carlie Puth, so if you want we can fangirl together :joy_cat:. 
-- 📫 How to reach me: you can contact with my here, on GitHub.
+- 💬 Ask me about music. I love music! and lately I've been obsessed with Carlie Puth, so if you want we can fangirl together :joy_cat:. 
+- 📫 How to reach me: you can contact with me here, on GitHub.
